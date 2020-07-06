@@ -1,7 +1,5 @@
 package testing;
 
-/* Uncomment the below code to test your application
-
 import model.Bus;
 import java.time.LocalDate;
 import static org.junit.Assert.*;
@@ -60,4 +58,4 @@ public class TestBus {
 	}
 }
 
-*/
+
